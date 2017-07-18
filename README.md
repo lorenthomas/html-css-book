@@ -6,3 +6,15 @@ This is my journey into HTML and CSS.
 1. Completed 2
 1. Completed 3
 1. Completed 4
+
+
+
+
+
+`git status`
+
+`git add .`
+
+`git commit -m "message"`
+
+`git push`
